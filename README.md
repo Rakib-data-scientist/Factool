@@ -1,6 +1,6 @@
 # Factool
 
-Inspired by : https://arxiv.org/pdf/2307.13528v2.pdf
+
 
 
 1.
@@ -29,3 +29,6 @@ Inspired by : https://arxiv.org/pdf/2307.13528v2.pdf
 ![FACTOOL-A-Framework-for-Factuality-Detection-in-Texts-Generated-by-Language-Models_page-0012](https://github.com/Rakib-data-scientist/Factool/assets/137823730/74275dc9-9cf5-4d0e-befb-5bb0bc098550)
 13.
 ![FACTOOL-A-Framework-for-Factuality-Detection-in-Texts-Generated-by-Language-Models_page-0013](https://github.com/Rakib-data-scientist/Factool/assets/137823730/2a8b2b3b-fb74-4048-9a48-357401f7cd17)
+
+
+* Inspired by : https://arxiv.org/pdf/2307.13528v2.pdf
